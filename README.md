@@ -1,6 +1,6 @@
-# HOUSING DATACLEANING
+# HOUSING DATACLEANING IN SQL
 ## About
-This project aims to clean the Housing data using SQL.
+This project aims to clean the Housing data using **SQL**.
 
 ## Approch Used
 1.Standardize Date Format
